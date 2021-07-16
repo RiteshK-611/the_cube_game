@@ -1,0 +1,10 @@
+Logs/
+Library/
+Temp/
+Build/
+Builds/
+Obj/
+UserSettings/
+WebGL Builds/
+connectwebgl.zip/
+webgl_sharing/
